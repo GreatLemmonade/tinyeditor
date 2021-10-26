@@ -1,5 +1,9 @@
+ }
+ body {
+   background-color: #ffb469;
+ }
 textarea {
-   background-color:#e1b4ed;
+   background-color:#f28a61;
    color: aqua;
    float: top;
    min-height: 250px;
